@@ -211,6 +211,9 @@
         <mxCell id="rp88k47jnL246jLWhkXU-83" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;申请大模型训练&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="rp88k47jnL246jLWhkXU-4">
           <mxGeometry x="34" y="869" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="rp88k47jnL246jLWhkXU-104" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;申请大模型上线投产&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="rp88k47jnL246jLWhkXU-4">
+          <mxGeometry x="30" y="1140" width="100" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="77e6c97f196da883-7" value="OAM" style="swimlane;html=1;startSize=20;labelBackgroundColor=none;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="2270" y="20" width="160" height="1340" as="geometry" />
         </mxCell>
