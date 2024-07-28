@@ -103,7 +103,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XLuVanogugk9uLcFc-F4-42" value="&lt;span style=&quot;font-family: Verdana;&quot;&gt;COS办公网A桶&lt;/span&gt;&lt;div style=&quot;font-family: Verdana; font-size: 8px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;（临时库）&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="77e6c97f196da883-6">
-          <mxGeometry x="44" y="38" width="95" height="70" as="geometry" />
+          <mxGeometry x="73" y="38" width="95" height="70" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-7" value="华为modelarts平台" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="1100" y="20" width="160" height="740" as="geometry" />
@@ -168,7 +168,7 @@
             <mxPoint x="800" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XLuVanogugk9uLcFc-F4-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="77e6c97f196da883-1" source="XLuVanogugk9uLcFc-F4-29" target="XLuVanogugk9uLcFc-F4-42">
+        <mxCell id="XLuVanogugk9uLcFc-F4-41" value="自动触发上传" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="77e6c97f196da883-1" source="XLuVanogugk9uLcFc-F4-29" target="XLuVanogugk9uLcFc-F4-42">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="840" y="100" as="targetPoint" />
           </mxGeometry>
