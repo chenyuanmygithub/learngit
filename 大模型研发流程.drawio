@@ -91,6 +91,9 @@
         <mxCell id="XLuVanogugk9uLcFc-F4-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-6" source="XLuVanogugk9uLcFc-F4-42" target="XLuVanogugk9uLcFc-F4-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="XLuVanogugk9uLcFc-F4-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-6" source="XLuVanogugk9uLcFc-F4-42" target="XLuVanogugk9uLcFc-F4-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XLuVanogugk9uLcFc-F4-42" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;font-family: Verdana;&quot;&gt;大模型基础镜像A仓库（临时库）&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="77e6c97f196da883-6">
           <mxGeometry x="73" y="42" width="95" height="70" as="geometry" />
         </mxCell>
