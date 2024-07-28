@@ -29,6 +29,9 @@
         <mxCell id="XLuVanogugk9uLcFc-F4-23" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;云上大模型资源通过腾讯云中转&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-2">
           <mxGeometry x="25" y="140" width="110" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="XLuVanogugk9uLcFc-F4-25" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;云下大模型性资源通过U盘copy&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-2">
+          <mxGeometry x="25" y="220" width="110" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="77e6c97f196da883-33" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8" parent="77e6c97f196da883-1" source="77e6c97f196da883-13" target="77e6c97f196da883-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -165,6 +168,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XLuVanogugk9uLcFc-F4-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="77e6c97f196da883-1" source="XLuVanogugk9uLcFc-F4-18" target="XLuVanogugk9uLcFc-F4-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XLuVanogugk9uLcFc-F4-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="77e6c97f196da883-1" source="XLuVanogugk9uLcFc-F4-23" target="XLuVanogugk9uLcFc-F4-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
