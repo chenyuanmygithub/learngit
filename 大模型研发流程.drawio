@@ -127,6 +127,20 @@
         <mxCell id="rp88k47jnL246jLWhkXU-4" value="流程中心" style="swimlane;html=1;startSize=20;" vertex="1" parent="77e6c97f196da883-1">
           <mxGeometry x="1820" y="20" width="230" height="730" as="geometry" />
         </mxCell>
+        <mxCell id="rp88k47jnL246jLWhkXU-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="rp88k47jnL246jLWhkXU-4" source="rp88k47jnL246jLWhkXU-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-170" y="80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="99" y="150" />
+              <mxPoint x="-170" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rp88k47jnL246jLWhkXU-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="rp88k47jnL246jLWhkXU-4" source="rp88k47jnL246jLWhkXU-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-180" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="rp88k47jnL246jLWhkXU-5" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;申请大模型测试验证&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="rp88k47jnL246jLWhkXU-4">
           <mxGeometry x="49" y="442" width="100" height="60" as="geometry" />
         </mxCell>
