@@ -91,6 +91,9 @@
         <mxCell id="XLuVanogugk9uLcFc-F4-43" value="&lt;span style=&quot;font-family: Verdana;&quot;&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;COS办公网大模型文件A桶&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: Verdana;&quot;&gt;（临时库）&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="77e6c97f196da883-6" vertex="1">
           <mxGeometry x="103" y="226" width="95" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="rp88k47jnL246jLWhkXU-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-6" source="XLuVanogugk9uLcFc-F4-45" target="rp88k47jnL246jLWhkXU-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XLuVanogugk9uLcFc-F4-45" value="&lt;div&gt;&lt;span style=&quot;font-family: Verdana; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-family: Verdana; background-color: initial;&quot;&gt;COS办公网数据集A桶（临时库）&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="77e6c97f196da883-6" vertex="1">
           <mxGeometry x="103" y="387" width="95" height="70" as="geometry" />
         </mxCell>
