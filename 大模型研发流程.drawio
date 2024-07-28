@@ -35,9 +35,6 @@
         <mxCell id="rp88k47jnL246jLWhkXU-9" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="rp88k47jnL246jLWhkXU-1">
           <mxGeometry x="70" y="442" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rp88k47jnL246jLWhkXU-26" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;大模型测试验证&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="rp88k47jnL246jLWhkXU-1">
-          <mxGeometry x="30" y="536" width="110" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="rp88k47jnL246jLWhkXU-40" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="rp88k47jnL246jLWhkXU-1">
           <mxGeometry x="70" y="637" width="30" height="60" as="geometry" />
         </mxCell>
@@ -194,6 +191,9 @@
         <mxCell id="rp88k47jnL246jLWhkXU-42" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;部署微调大模型&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;（业务网生产环境）&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-7">
           <mxGeometry x="20.5" y="760" width="119" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="rp88k47jnL246jLWhkXU-66" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;大模型测试验证&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-7">
+          <mxGeometry x="35" y="300" width="119" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="XLuVanogugk9uLcFc-F4-1" value="华为modelarts平台" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="2190" y="20" width="160" height="1160" as="geometry" />
         </mxCell>
@@ -240,9 +240,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="265" y="492" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="rp88k47jnL246jLWhkXU-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-1" source="77e6c97f196da883-24" target="rp88k47jnL246jLWhkXU-26">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rp88k47jnL246jLWhkXU-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-1" source="rp88k47jnL246jLWhkXU-15" target="77e6c97f196da883-24">
           <mxGeometry relative="1" as="geometry">
