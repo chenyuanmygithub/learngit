@@ -35,7 +35,7 @@
         <mxCell id="rp88k47jnL246jLWhkXU-9" value="发起大模型测试验证" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="rp88k47jnL246jLWhkXU-1">
           <mxGeometry x="70" y="442" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rp88k47jnL246jLWhkXU-40" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="rp88k47jnL246jLWhkXU-1">
+        <mxCell id="rp88k47jnL246jLWhkXU-40" value="发起大模型微调" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="rp88k47jnL246jLWhkXU-1">
           <mxGeometry x="70" y="637" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-2" value="行外大模型数据源" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
