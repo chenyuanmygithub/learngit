@@ -89,7 +89,7 @@
         <mxCell id="77e6c97f196da883-14" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-4" vertex="1">
           <mxGeometry x="30" y="560" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XLuVanogugk9uLcFc-F4-21" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;申请大模型资源入行&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-4">
+        <mxCell id="XLuVanogugk9uLcFc-F4-21" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;通过ECC机器下载云资源和U盘copy云下资源&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-4">
           <mxGeometry x="30" y="50" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-5" value="流水线" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
