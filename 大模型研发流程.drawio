@@ -235,6 +235,9 @@
         <mxCell id="rp88k47jnL246jLWhkXU-68" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;大模型微调&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-7">
           <mxGeometry x="20.5" y="798" width="119" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="rp88k47jnL246jLWhkXU-106" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;部署大模型&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;（业务网生产环境）&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-7">
+          <mxGeometry x="20.5" y="1140" width="119" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="77e6c97f196da883-28" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="77e6c97f196da883-1" source="XLuVanogugk9uLcFc-F4-15" target="XLuVanogugk9uLcFc-F4-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="125" y="110" as="sourcePoint" />
