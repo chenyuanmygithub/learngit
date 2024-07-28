@@ -355,6 +355,9 @@
         <mxCell id="rp88k47jnL246jLWhkXU-98" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;大模型训练&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="XLuVanogugk9uLcFc-F4-1" vertex="1">
           <mxGeometry x="30" y="1070" width="119" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="46cPTqYzvemRXdZz0dh9-1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;业务网大模型测试、微调、训练、生产环境实现隔离&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="XLuVanogugk9uLcFc-F4-1">
+          <mxGeometry x="-53" y="451" width="135" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="rp88k47jnL246jLWhkXU-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="77e6c97f196da883-1" source="rp88k47jnL246jLWhkXU-98" target="rp88k47jnL246jLWhkXU-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
