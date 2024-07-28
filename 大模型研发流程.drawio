@@ -88,10 +88,10 @@
             <mxPoint x="40" y="650" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XLuVanogugk9uLcFc-F4-42" value="&lt;div&gt;&lt;span style=&quot;font-family: Verdana;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-family: Verdana;&quot;&gt;COS办公网大模型文件A桶&lt;/span&gt;&lt;span style=&quot;font-family: Verdana; background-color: initial;&quot;&gt;（临时库）&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="77e6c97f196da883-6">
-          <mxGeometry x="73" y="84" width="95" height="70" as="geometry" />
+        <mxCell id="XLuVanogugk9uLcFc-F4-42" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;font-family: Verdana;&quot;&gt;大模型基础镜像A仓库（临时库）&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="77e6c97f196da883-6">
+          <mxGeometry x="73" y="42" width="95" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="XLuVanogugk9uLcFc-F4-43" value="&lt;div&gt;&lt;span style=&quot;font-family: Verdana; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-family: Verdana; background-color: initial;&quot;&gt;大模型基础镜像A仓库（临时库）&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="77e6c97f196da883-6">
+        <mxCell id="XLuVanogugk9uLcFc-F4-43" value="&lt;span style=&quot;font-family: Verdana;&quot;&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;COS办公网大模型文件A桶&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: Verdana;&quot;&gt;（临时库）&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="77e6c97f196da883-6">
           <mxGeometry x="73" y="188" width="95" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XLuVanogugk9uLcFc-F4-45" value="&lt;div&gt;&lt;span style=&quot;font-family: Verdana; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-family: Verdana; background-color: initial;&quot;&gt;COS办公网数据集A桶（临时库）&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="77e6c97f196da883-6">
