@@ -170,6 +170,11 @@
         <mxCell id="XLuVanogugk9uLcFc-F4-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="77e6c97f196da883-1" source="XLuVanogugk9uLcFc-F4-23" target="XLuVanogugk9uLcFc-F4-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="XLuVanogugk9uLcFc-F4-31" value="通过rsync客户端同步" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XLuVanogugk9uLcFc-F4-24">
+          <mxGeometry x="-0.2455" y="2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="XLuVanogugk9uLcFc-F4-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-1" source="XLuVanogugk9uLcFc-F4-25" target="XLuVanogugk9uLcFc-F4-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
