@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" version="24.7.5">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="2726" dy="3024" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2726" dy="2574" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="#fcfcfc" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="77e6c97f196da883-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;大模型研发流程&lt;/font&gt;" style="swimlane;html=1;childLayout=stackLayout;startSize=50;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
+        <mxCell id="77e6c97f196da883-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;大模型研发流程&lt;/font&gt;" style="swimlane;html=1;childLayout=stackLayout;startSize=50;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;swimlaneLine=0;glass=0;gradientColor=none;swimlaneFillColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="267" y="-130" width="2760" height="1450" as="geometry" />
         </mxCell>
         <mxCell id="XLuVanogugk9uLcFc-F4-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;阶段&lt;/font&gt;" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
