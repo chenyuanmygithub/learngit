@@ -145,7 +145,7 @@
         <mxCell id="rp88k47jnL246jLWhkXU-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="77e6c97f196da883-6" source="XLuVanogugk9uLcFc-F4-59" target="rp88k47jnL246jLWhkXU-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rp88k47jnL246jLWhkXU-45" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;font-family: Verdana;&quot;&gt;大模型基础镜像B仓库（业务网生产库）&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="77e6c97f196da883-6">
+        <mxCell id="rp88k47jnL246jLWhkXU-45" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;font-family: Verdana;&quot;&gt;大模型基础镜像B仓库（业务网微调、训练库）&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="77e6c97f196da883-6">
           <mxGeometry x="846" y="628" width="95" height="70" as="geometry" />
         </mxCell>
         <mxCell id="rp88k47jnL246jLWhkXU-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="77e6c97f196da883-6" source="rp88k47jnL246jLWhkXU-46">
@@ -157,7 +157,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rp88k47jnL246jLWhkXU-46" value="&lt;span style=&quot;font-family: Verdana;&quot;&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;COS办公网大模型文件B桶&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: Verdana;&quot;&gt;（业务网生产库）&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="77e6c97f196da883-6">
+        <mxCell id="rp88k47jnL246jLWhkXU-46" value="&lt;span style=&quot;font-family: Verdana;&quot;&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;COS办公网大模型文件B桶&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: Verdana;&quot;&gt;（&lt;/span&gt;&lt;span style=&quot;font-family: Verdana;&quot;&gt;业务网微调、训练&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: Verdana;&quot;&gt;库）&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="77e6c97f196da883-6">
           <mxGeometry x="846" y="738" width="95" height="70" as="geometry" />
         </mxCell>
         <mxCell id="rp88k47jnL246jLWhkXU-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="77e6c97f196da883-6" source="rp88k47jnL246jLWhkXU-14" target="rp88k47jnL246jLWhkXU-45">
