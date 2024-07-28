@@ -166,9 +166,9 @@
         <mxCell id="rp88k47jnL246jLWhkXU-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="77e6c97f196da883-6" source="rp88k47jnL246jLWhkXU-15" target="rp88k47jnL246jLWhkXU-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rp88k47jnL246jLWhkXU-109" value="同步大模型文件和基础镜像" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rp88k47jnL246jLWhkXU-77">
+        <mxCell id="rp88k47jnL246jLWhkXU-109" value="&lt;font color=&quot;#ff0000&quot;&gt;同步大模型文件和基础镜像&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;到微调、训练库&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rp88k47jnL246jLWhkXU-77">
           <mxGeometry x="-0.4486" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-10" y="153" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rp88k47jnL246jLWhkXU-93" value="数据集存储和管理平台" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="77e6c97f196da883-6">
@@ -185,6 +185,11 @@
         </mxCell>
         <mxCell id="rp88k47jnL246jLWhkXU-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="77e6c97f196da883-6" source="rp88k47jnL246jLWhkXU-14" target="rp88k47jnL246jLWhkXU-107">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rp88k47jnL246jLWhkXU-116" value="&lt;font color=&quot;#ff0000&quot;&gt;同步大模型文件和基础镜像&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;到生产库&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rp88k47jnL246jLWhkXU-113">
+          <mxGeometry x="-0.5893" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="rp88k47jnL246jLWhkXU-4" value="流程中心" style="swimlane;html=1;startSize=20;" vertex="1" parent="77e6c97f196da883-1">
           <mxGeometry x="2220" y="20" width="160" height="1430" as="geometry" />
