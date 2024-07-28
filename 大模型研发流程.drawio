@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" version="24.7.5">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="946" dy="1529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1261" dy="1755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,7 +68,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XLuVanogugk9uLcFc-F4-42" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;font-family: Verdana;&quot;&gt;大模型基础镜像A仓库（临时库）&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="77e6c97f196da883-6" vertex="1">
-          <mxGeometry x="73" y="42" width="95" height="70" as="geometry" />
+          <mxGeometry x="103" y="42" width="95" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XLuVanogugk9uLcFc-F4-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="77e6c97f196da883-6" source="XLuVanogugk9uLcFc-F4-43" target="XLuVanogugk9uLcFc-F4-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -77,34 +77,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XLuVanogugk9uLcFc-F4-43" value="&lt;span style=&quot;font-family: Verdana;&quot;&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;COS办公网大模型文件A桶&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: Verdana;&quot;&gt;（临时库）&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="77e6c97f196da883-6" vertex="1">
-          <mxGeometry x="73" y="226" width="95" height="70" as="geometry" />
+          <mxGeometry x="103" y="226" width="95" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XLuVanogugk9uLcFc-F4-45" value="&lt;div&gt;&lt;span style=&quot;font-family: Verdana; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-family: Verdana; background-color: initial;&quot;&gt;COS办公网数据集A桶（临时库）&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="77e6c97f196da883-6" vertex="1">
-          <mxGeometry x="73" y="387" width="95" height="70" as="geometry" />
+          <mxGeometry x="103" y="387" width="95" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XLuVanogugk9uLcFc-F4-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="77e6c97f196da883-6" source="XLuVanogugk9uLcFc-F4-48" target="XLuVanogugk9uLcFc-F4-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XLuVanogugk9uLcFc-F4-48" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;镜像合规检查&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-6" vertex="1">
-          <mxGeometry x="270" y="47" width="100" height="60" as="geometry" />
+          <mxGeometry x="281" y="47" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XLuVanogugk9uLcFc-F4-49" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;镜像安全扫描&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-6" vertex="1">
-          <mxGeometry x="270" y="140" width="100" height="60" as="geometry" />
+          <mxGeometry x="281" y="140" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XLuVanogugk9uLcFc-F4-52" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;span style=&quot;font-family: Verdana;&quot;&gt;大模型基础镜像A仓库（测试库）&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="77e6c97f196da883-6" vertex="1">
-          <mxGeometry x="460" y="42" width="95" height="70" as="geometry" />
+          <mxGeometry x="470" y="42" width="95" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XLuVanogugk9uLcFc-F4-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="77e6c97f196da883-6" source="XLuVanogugk9uLcFc-F4-49" target="XLuVanogugk9uLcFc-F4-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XLuVanogugk9uLcFc-F4-55" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;SCA安全扫描&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-6" vertex="1">
-          <mxGeometry x="270" y="210" width="100" height="60" as="geometry" />
+          <mxGeometry x="281" y="210" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XLuVanogugk9uLcFc-F4-56" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;大模型文件过滤&amp;amp;校验&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-6" vertex="1">
-          <mxGeometry x="270" y="284" width="100" height="60" as="geometry" />
+          <mxGeometry x="281" y="284" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XLuVanogugk9uLcFc-F4-59" value="&lt;span style=&quot;font-family: Verdana;&quot;&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;COS办公网大模型文件A桶&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: Verdana;&quot;&gt;（测试库）&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" parent="77e6c97f196da883-6" vertex="1">
-          <mxGeometry x="460" y="240" width="95" height="70" as="geometry" />
+          <mxGeometry x="470" y="240" width="95" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XLuVanogugk9uLcFc-F4-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="77e6c97f196da883-6" source="XLuVanogugk9uLcFc-F4-55" target="XLuVanogugk9uLcFc-F4-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
