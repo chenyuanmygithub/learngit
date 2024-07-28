@@ -245,16 +245,16 @@
         <mxCell id="rp88k47jnL246jLWhkXU-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-1" source="rp88k47jnL246jLWhkXU-15" target="77e6c97f196da883-24">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2290" y="295" />
-              <mxPoint x="2290" y="212" />
+              <mxPoint x="2160" y="295" />
+              <mxPoint x="2160" y="212" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="rp88k47jnL246jLWhkXU-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-1" source="rp88k47jnL246jLWhkXU-14" target="77e6c97f196da883-24">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2290" y="97" />
-              <mxPoint x="2290" y="212" />
+              <mxPoint x="2160" y="97" />
+              <mxPoint x="2160" y="212" />
             </Array>
           </mxGeometry>
         </mxCell>
