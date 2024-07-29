@@ -409,7 +409,7 @@
         <mxCell id="rp88k47jnL246jLWhkXU-98" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;大模型训练&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="XLuVanogugk9uLcFc-F4-1" vertex="1">
           <mxGeometry x="30" y="1070" width="119" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="46cPTqYzvemRXdZz0dh9-1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;业务网大模型测试、微调、训练、生产环境实现隔离&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" parent="XLuVanogugk9uLcFc-F4-1" vertex="1">
+        <mxCell id="46cPTqYzvemRXdZz0dh9-1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;业务网大模型测试、微调、训练、生产环境实现隔离PVC&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" parent="XLuVanogugk9uLcFc-F4-1" vertex="1">
           <mxGeometry x="-63" y="518" width="135" height="80" as="geometry" />
         </mxCell>
       </root>
